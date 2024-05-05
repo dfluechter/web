@@ -1,0 +1,8 @@
+/* Add all your styles here */
+.btn{
+    color: white;
+    background-color: #8845f4;
+    padding: 13px 42px;
+    border-radius: 20px;
+    text-decoration: none;
+}
